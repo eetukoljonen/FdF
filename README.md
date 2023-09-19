@@ -17,5 +17,5 @@ make
 ./FdF test_maps/42.fdf
 ```
 
-![fdfvideo](https://github.com/eetukoljonen/FdF/assets/120648288/4659316c-4ccc-4270-885b-ab92fc657872)
+![fdfvideo1](https://github.com/eetukoljonen/FdF/assets/120648288/a904ffc2-4bb2-4652-8bdf-d0b1c8e889f0)
 
