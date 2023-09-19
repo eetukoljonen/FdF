@@ -15,8 +15,8 @@ make
 3. Run the program.
 ```
 ./FdF test_maps/42.fdf
+```
 
-<img width="994" alt="Screen Shot 2023-09-19 at 3 32 26 PM" src="https://github.com/eetukoljonen/FdF/assets/120648288/dc9dabd0-31ab-42a4-a331-25396b57aefc">
+<img width="800" alt="Screen Shot 2023-09-19 at 3 29 07 PM" src="https://github.com/eetukoljonen/FdF/assets/120648288/4068c48f-f355-47ea-9e94-d0f114866e29">
 
-
-<img width="1001" alt="Screen Shot 2023-09-19 at 3 29 07 PM" src="https://github.com/eetukoljonen/FdF/assets/120648288/0b29dedb-7e18-486d-a21c-75429fe68e83">
+<img width="800" alt="Screen Shot 2023-09-19 at 3 32 26 PM" src="https://github.com/eetukoljonen/FdF/assets/120648288/b47a56f7-9ed7-4a94-86e2-5f2924858e49">
